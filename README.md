@@ -1,5 +1,6 @@
 ### themes
 ```
+Dracula
 https://github.com/dexpota/kitty-themes
 ```
 
